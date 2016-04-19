@@ -1,7 +1,11 @@
-<<<<<<< HEAD
 
-=======
 Creating a new branch is quick AND simple.
->>>>>>> feature1
+
 修改了uibutton
 我是user1
+
+修改了uibutton
+
+
+我是user2
+
